@@ -1,7 +1,10 @@
 # tours_and_travels
-downlaod all the files
-To run this : node app_temp.js in command promt / terminal
+download all the files
 
+
+To run this : 
+
+in command promt / terminal : node app_temp.js 
 
 In web browser : localhost:3000
 
