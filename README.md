@@ -2,7 +2,7 @@
 download all the files
 
 
-To run this : 
+To run this : (make sure mongodb server is running)
 
 in command promt / terminal : node app_temp.js 
 
