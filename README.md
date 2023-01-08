@@ -14,7 +14,7 @@ Download all the files
 
 To run this : (make sure mongodb server is running)
 
-In command promt / terminal : node app_temp.js 
+In command promt / terminal : node server.js 
 
 In web browser : localhost:3000
 
